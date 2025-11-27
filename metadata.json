@@ -1,0 +1,8 @@
+{
+  "name": "LifeTales",
+  "description": "A beautiful, AI-powered storytelling space that transforms your voice notes and photos into rich narratives.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
